@@ -1,0 +1,1 @@
+simple socket for sending and reciveing data from chat gpt 
